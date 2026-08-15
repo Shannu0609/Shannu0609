@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Shanmukha Sai Bontha
-
-<img src="https://github.com/Shannu0609.png" width="180" align="right"/>
+# 👋 Hi, I'm  Bontha Shanmukha Sai 
 
 ### 🚀 Computer Science Engineering (AI & Machine Intelligence) Student
 
